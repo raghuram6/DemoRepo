@@ -8,4 +8,7 @@ public class LoginPage {
 	public void loginSet(){
 		System.out.println("loginset");
 	}
+	public void loginSetUP(){
+		System.out.println("loginsetup");
+	}
 }
